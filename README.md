@@ -1,4 +1,4 @@
-# My Personal GlazeWM Configuration (Without Zebar)
+# My Personal GlazeWM Configuration (No Zebar)
 
 Focused on practical simplicity.
 
