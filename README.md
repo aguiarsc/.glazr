@@ -7,3 +7,12 @@ Focused on practical simplicity.
 - **No Vim bindings:** Streamlined for general use.  
 - **Zebar-free:** Designed to work without Zebar.  
 - **Customizable:** Easy to adapt to personal workflow.
+
+# How to
+
+- `winget install GlazeWM`
+- Start GlazeWM to create config files.
+- Download this repo. 
+- Go to `C:\Users\username`
+- Change your own `.glazr` with mine.
+- Reload config with `alt+shift+r`
