@@ -203,7 +203,7 @@ keybindings:
     bindings: ['alt+enter']
 
   # Launch Comet Browser.
-  - commands: ['shell-exec %LocalAppData%/Perplexity/Comet/Application/comet.exe']
+  - commands: ['shell-exec %LocalAppData%/Perplexity/Comet/Application/comet.exe'] # If not using Comet, replace with your preferred browser.
     bindings: ['alt+b']
 
   # Launch File Explorer.
