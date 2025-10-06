@@ -13,6 +13,7 @@ Focused on practical simplicity.
 - `winget install GlazeWM`
 - Start GlazeWM to create config files.
 - Download this repo. 
-- Go to `C:\Users\username`
-- Change your own `.glazr` with mine.
-- Reload config with `alt+shift+r`
+- Go to `C:\Users\username`.
+- Edit your own `.glazr` with my conf in `config.yaml`.
+- Reload config with `alt+shift+r`.
+- Kill Zebar proccess and uninstall.
